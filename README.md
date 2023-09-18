@@ -18,6 +18,7 @@ Antes de criar projetos usando o arquétipo, é necessário instalá-lo localmen
 
    ```shell
    mvn clean install
+   ```
 
 Isso garantirá que o arquétipo esteja disponível para uso posterior na criação de projetos.
 
@@ -32,6 +33,7 @@ Agora que o arquétipo está instalado em seu ambiente, você pode criar projeto
 
   ```shell
    mvn archetype:generate -DarchetypeGroupId=br.com -DarchetypeArtifactId=servicorestfularchetype -DarchetypeVersion=0.0.1-SNAPSHOT -DgroupId=com.exemplo -DartifactId=lista-de-tarefas-spring-boot -Dversion=1.0.0-SNAPSHOT -Ddescription="Aplicativo de lista de tarefas simples" -Dpackage=com.exemplo.listadetarefasspringboot
+   ```
 
   Após executar o comando acima, o Maven criará um novo projeto com base no arquétipo, usando as informações fornecidas. Você pode agora desenvolver as funcionalidades da sua aplicação seguindo o modelo de projeto gerado.
 
