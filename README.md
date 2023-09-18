@@ -64,6 +64,7 @@ A estrutura do projeto inclui os seguintes componentes:
 - Código-fonte Java para serviços RESTful.
 - Testes de exemplo.
 
+```
 |   pom.xml
 |   README.md
 |
@@ -71,7 +72,6 @@ A estrutura do projeto inclui os seguintes componentes:
 |       projeto-arquetipo-gerado.png
 |       salvar-modelo-arquetipo-m2.png
 |
-``
 +---src
 |   \---main
 |       \---resources
@@ -101,4 +101,4 @@ A estrutura do projeto inclui os seguintes componentes:
 |           \---META-INF
 |               \---maven
 |                       archetype.xml
-``
+```
