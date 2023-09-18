@@ -63,3 +63,40 @@ A estrutura do projeto inclui os seguintes componentes:
 - Arquivos de configuração do Maven.
 - Código-fonte Java para serviços RESTful.
 - Testes de exemplo.
+
+|   pom.xml
+|   README.md
+|
++---readme_images
+|       projeto-arquetipo-gerado.png
+|       salvar-modelo-arquetipo-m2.png
+|
++---src
+|   \---main
+|       \---resources
+|           +---archetype-resources
+|           |   |   pom.xml
+|           |   |
+|           |   \---src
+|           |       +---main
+|           |       |   +---java
+|           |       |   |       BasicAuthenticationEntryPointImpl.java
+|           |       |   |       ConfigurationIO.java
+|           |       |   |       Funcionario.java
+|           |       |   |       FuncionarioInfo.java
+|           |       |   |       FuncionarioService.java
+|           |       |   |       NoOpPasswordEncoder.java
+|           |       |   |       RestClient.java
+|           |       |   |       ServicoRestfulApplication.java
+|           |       |   |
+|           |       |   \---resources
+|           |       |           application.properties
+|           |       |
+|           |       \---test
+|           |           \---java
+|           |                   FuncionarioServiceTest.java
+|           |                   ServicoRestfulApplicationTests.java
+|           |
+|           \---META-INF
+|               \---maven
+|                       archetype.xml
