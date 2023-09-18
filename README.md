@@ -53,7 +53,7 @@ Aqui estão algumas capturas de tela do projeto do arquétipo em ação:
 
    ![Salvar na pasta .m2 o novo modelo de Arquetípo](/readme_images/salvar-modelo-arquetipo-m2.png)
 
-2. **Usando Arquetípo Disponível no .m2 Criar Novo Projeto(PUT)**
+2. **Usando Arquetípo Disponível no .m2 para Criar Novo Projeto**
 
    ![Gerar novo projeto com base no Arquetípo](/readme_images/projeto-arquetipo-gerado.png)
 
