@@ -1,4 +1,4 @@
-# Projeto Arquétipo Gerado
+# Projeto Arquétipo Maven RESTful Spring Boot
 
 Este repositório contém um projeto arquétipo Maven para serviços RESTful usando Spring Boot.
 
